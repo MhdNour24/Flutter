@@ -117,6 +117,7 @@ class _MyWidgetState extends State<MyWidget> {
                                                   onPressed: () {
                                                     firestoreService
                                                         .deleteBook(docId);
+                                                    Navigator.of(context).pop();
                                                   },
                                                   child: const Text("Sil")),
                                               TextButton(
