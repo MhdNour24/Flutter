@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "956171467987",
+    "project_id": "harita-odev-5c64b",
+    "storage_bucket": "harita-odev-5c64b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956171467987:android:1058a1749f68acf6aee826",
+        "android_client_info": {
+          "package_name": "com.example.google_maps_odev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH98OTn2ibQz6_y93ZOCea7OJ4_r2Lk90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
